@@ -25,3 +25,11 @@ Then run npm install commend to install node dependencies.
 create a .env file in the backend root directory as the same level where the package.json is located and keep the following environment variables there:
 Note: Please setup mongodb and change the MongoDB url and set your jwt secret key above.
 Finally, to run the project, use npm run start:dev command.
+
+
+Here Our Project Documentation LINK 👇✨
+https://drive.google.com/file/d/14_6UnHlbrmVndYufbik6eTXExdWiev9Z/view?usp=sharing
+
+
+And Here Our Project Demo Video LINk 👇👇👇
+https://drive.google.com/file/d/1cs3iRWiNJkceuVWKTCQQ26tjE-mmfTYc/view?usp=sharing
