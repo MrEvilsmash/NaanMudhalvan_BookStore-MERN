@@ -3,10 +3,10 @@
 
 
 MEMBERS: 
-1. AKASH SV (110121104007) 
+1. AKASH SV (110121104007) Gmail : Akashvasumathi123@gmail.com
 2. ARUN R (110121104015) Gmail : arunsevoor123@gmail.com
-3. AUGUSTIN P (110121104017) 
-4. CHARN M (110121104305) 
+3. AUGUSTIN P (110121104017) Gmail : Augustinp160@gmail.com
+4. CHARN M (110121104305) Gmail :charangopi14@gmail.com
 
 For Frontend
 Follow the below steps to run the project:
