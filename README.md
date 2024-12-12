@@ -6,7 +6,7 @@ MEMBERS:
 1. AKASH SV (110121104007) Gmail : Akashvasumathi123@gmail.com  NM_ID(au110121104007)
 2. ARUN R (110121104015) Gmail : arunsevoor123@gmail.com  NM_ID(au110121104015)
 3. AUGUSTIN P (110121104017) Gmail : Augustinp160@gmail.com  NM_ID(au110121104017)
-4. CHARN M (110121104305) Gmail :charangopi14@gmail.com  NM_ID(autcseale04)
+4. CHARAN M (110121104305) Gmail :charangopi14@gmail.com  NM_ID(autcseale04)
 
 For Frontend
 Follow the below steps to run the project:
